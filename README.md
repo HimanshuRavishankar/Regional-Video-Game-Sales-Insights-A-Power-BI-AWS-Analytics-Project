@@ -1,6 +1,4 @@
-# Regional-Video-Game-Sales-Insights-A-Power-BI-AWS-Analytics-Project
-
-# 🎮 Power BI Dashboard – Video Game Sales Across Regions (Built with Amazon Athena + ODBC)
+# 🎮 Regional-Video-Game-Sales-Insights-A-Power-BI-AWS-Analytics-Project (Built with Amazon Athena + ODBC)
 
 ## 👨‍💻 About the Project
 This is a **custom-designed, sci-fi-themed Power BI dashboard** I created to explore and visualize **video game sales across different regions** using cloud-based data pipelines. From setting up AWS infrastructure to designing a futuristic radar-chart-driven UI — I built this project end-to-end to showcase my skills in **data engineering**, **cloud integration**, and **creative BI storytelling**.
